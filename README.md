@@ -6,7 +6,7 @@ A simple Bash script application that calculates simple interest based on user i
 This project is a CLI-based calculator designed to compute simple interest quickly. It takes three primary inputs from the user:
 - **Principal**: The initial amount of money borrowed or invested.
 - **Rate of Interest**: The annual interest rate (in percentage).
-- **Time Period**: The duration of the loan or investment in years.
+- **Time Period**: The duration of the loan or investment in yea
 
 ## How to Run
 1. Clone the repository.
